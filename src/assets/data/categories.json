@@ -1,0 +1,1537 @@
+{
+    "categoriesUrl": "",
+    "arrayOfCategories": [
+        {
+          "category_id": "5",
+          "category_name": "Circuit Playground",
+          "category_description": "Stop breadboarding and soldering - start making immediately! Adafruit's Circuit Playground is jam-packed with LEDs, sensors, buttons, alligator clip pads and more.\n<br><br>\nBuild projects with Circuit Playground in a few minutes with the <a href=\"https://makecode.adafruit.com/\">drag-and-drop MakeCode programming site</a>, learn computer science with the CS Discoveries class on code.org, jump into CircuitPython to learn Python and hardware together, or even use Arduino IDE. \n<br><br>\n<a href=\"https://www.adafruit.com/product/3333\">Circuit Playground Express</a> is the newest and best Circuit Playground board, with support for MakeCode, CircuitPython, and Arduino. It has a powerful processor, 10 NeoPixels, mini speaker, InfraRed receive and transmit, two buttons, a switch, 14 alligator clips, and lots of sensors: capacitive touch, IR proximity, temperature, light, motion and sound.\n<br><br>\n<a href=\"https://www.adafruit.com/product/3000\">Circuit Playground Classic</a> is the original classic Circuit Playground, which is not as powerful or featured. It  is designed to be used with Arduino IDE and code.org CS Discoveries only. It does not run MakeCode or CircuitPython, and does not have Infrared support (which is why we made the Express!)\n<br><br>\nA whole wide world of electronics and coding is waiting for you, and it fits in the palm of your hand.",
+          "products_count": 24,
+          "category_url": "https://www.adafruit.com/categories/965"
+        },
+        {
+          "category_id": "6",
+          "category_name": "Feather",
+          "category_description": "",
+          "products_count": 114,
+          "category_url": "https://www.adafruit.com/categories/943"
+        },
+        {
+          "category_id": "7",
+          "category_name": "Raspberry Pi",
+          "category_description": "<p>A mainstay in the world of makers and electronics, <a href=\"http://raspberrypi.org/\">The Raspberry Pi®</a> is a single-board, low-cost, high-performance computer first developed in the UK by the <a href=\"https://www.raspberrypi.org/\">Raspberry Pi Foundation</a>. Not only has it helped bring the joy of electronics and computer programming to people around the world, but it has also become a staple of the maker community. The ever-present Pi is now in its seventh iteration—<a href=\"https://www.adafruit.com/products/3775\">Raspberry Pi 3 Model B+</a>—as the Pi Foundation continues to improve on an already excellent product. There’s also the five-dollar <a href=\"https://www.adafruit.com/categories/813\">Pi Zero</a> – a game-changing Raspberry Pi in a much smaller package – as well as its WiFi-laced cousin, the <a href=\"https://www.adafruit.com/product/3400\">Pi Zero W</a>.</p>\n\n<p>Since the release of the first Raspberry Pi, manifold products have been created to accompany, modify, and enhance the Pi’s capabilities. From <a href=\"https://www.adafruit.com/categories/804\">touchscreens</a> and <a href=\"https://www.adafruit.com/categories/400\">displays</a> to <a href=\"https://www.adafruit.com/categories/405\">HATs</a>,  <a href=\"https://www.adafruit.com/category/929\">Bonnets</a>, <a href=\"https://www.adafruit.com/categories/802\">cameras</a> and <a href=\"https://www.adafruit.com/categories/406\">plates</a>, the possibilities are endless when it comes to project ideas. We’ve also created a number of <a href=\"https://www.adafruit.com/categories/175\">Raspberry Pi packs</a> for young engineers and experts alike.</p>\n\n<p>Be sure to check out all of our <a href=\"https://www.adafruit.com/raspberrypi\">Raspberry Pi related products</a>, as well as our <a href=\"http://www.adafruit.com/blog/category/raspberry-pi/\">posts</a> and <a href=\"http://learn.adafruit.com/category/raspberry-pi\">tutorials</a>.</p>",
+          "products_count": 228,
+          "category_url": "https://www.adafruit.com/categories/105"
+        },
+        {
+          "category_id": "8",
+          "category_name": "Particle",
+          "category_description": "Particle is a scalable, reliable and secure Internet of Things device platform that securely connects your devices to your web and mobile apps so that you can control and collect data from your devices, from first prototype to massive scale. Particle launched on Kickstarter in 2013 with the vision of making the Internet of Things easy and accessible, and their tools are now used by 70,000 engineers in more than 170 countries. Their portfolio of products includes the Particle Cloud - a cellular IoT SIM card and data plan - and cloud-connected microcontrollers like the Electron and Photon.",
+          "products_count": 24,
+          "category_url": "https://www.adafruit.com/categories/979"
+        },
+        {
+          "category_id": "9",
+          "category_name": "Arduino",
+          "category_description": "<p>\nArduino is the popular open-source electronics prototyping platform based on easy-to-use hardware and software. It's intended for artists, designers, hobbyists, and anyone interested in creating interactive objects or environments and is designed to be as flexible as possible to fit your project's needs.\n</p>\n<p>\nTo round out our Arduino category, we also have a complete line of packs.  For beginners, check out the <a href=\"http://www.adafruit.com/products/170\" target=\"_blank\">Arduino-compatible Adafruit MetroX Classic Kit - Experimentation Kit for Metro 328</a> or <a href=\"http://www.adafruit.com/products/68\" target=\"_blank\">Arduino-compatible Adafruit Metro 328 Starter Pack</a>.  All of these, and more, make Adafruit the best place to shop for all your Arduino & Arduino-compatible needs! \n</p>",
+          "products_count": 20,
+          "category_url": "https://www.adafruit.com/categories/17"
+        },
+        {
+          "category_id": "10",
+          "category_name": "Accessories",
+          "category_description": "Reward yourself--or your Maker friend--with Adafruit accessories!  Badges and Stickers are the best way to show off your projects and skills while our electronics-related apparel is a great way to tell your friends that you're an Open Source Hardware devotee!",
+          "products_count": 107,
+          "category_url": "https://www.adafruit.com/categories/234"
+        },
+        {
+          "category_id": "889",
+          "category_name": "Batteries",
+          "category_description": "<p><i>Find the right battery for your project!</p>\n<p>Explore all the batteries at Adafruit!</i></p>\n\n<p>What's YOUR favorite battery? What a powerful question! Maybe it's the ubiquitous CR2032 you use to drive your TimeSquared Watch.  Or maybe it's a heavy hitter - like the 6600mAh Lithium Ion Battery pack that you used to turn your Raspberry Pi display set up portable.  Or maybe you just love the timeless AAA since it reminds you of a walkie-talkie you had when you were a kid.</p>\n\n<p>Whatever your favorite is, Adafruit has the right battery for your power needs and issues. Get great batteries and powerful chargers for all types of applications and projects. Our goal is to provide as many quality batteries and battery accessories as we possibly can, to help make sure your projects run to the best of their abilities, with the perfect amount of power. So charge up and power on - we have the size, chemistry, voltage and type of battery you're looking for!</p>",
+          "products_count": 9,
+          "category_url": "https://www.adafruit.com/categories/889"
+        },
+        {
+          "category_id": "40",
+          "category_name": "Books",
+          "category_description": "<p>Want to learn about electronics with a handy resource open on your work bench? Want to teach your kid the ins and outs of programming without making them sit in front of a computer for hours on end? Or need way to write down notes and mark down your progress as a Maker all while having a handy reference for all things electronics? Check out Adafruit's wide selection of books.  From the <a href=\"http://www.adafruit.com/products/1053\">Raspberry Pi User Guide</a> for the Raspberry Pi fanatic, to <a href=\"http://www.adafruit.com/products/963\">Building Wireless Sensor Networks</a> for the XBee addict, to the Young Engineer geared <a href=\"http://www.adafruit.com/products/1000\">Coloring Book</a>, the Adafruit book category has the perfect product for all ages and skill levels.</p>",
+          "products_count": 55,
+          "category_url": "https://www.adafruit.com/categories/40"
+        },
+        {
+          "category_id": "42",
+          "category_name": "Breakout Boards",
+          "category_description": "Breakout your Raspberry Pis and Arduinos with this broad selection of versatile breakout boards! Engineered to help you realize  your robotics, GPS and altitude sensing projects as well as servo and touch screen interfacing, you'll find many uses for these high-quality boards, most of which are manufactured in house at Adafruit!",
+          "products_count": 208,
+          "category_url": "https://www.adafruit.com/categories/42"
+        },
+        {
+          "category_id": "33",
+          "category_name": "Cables",
+          "category_description": "Whether you're looking to connect your latest HDMI device or convert USB to Serial, you're likely to find what you're looking for in our extensive selection of cables. RCA, 10p-pin socket IDC and waterproof polarized 4-wire sets are just three of over 70 different items available!",
+          "products_count": 167,
+          "category_url": "https://www.adafruit.com/categories/33"
+        },
+        {
+          "category_id": "956",
+          "category_name": "CircuitPython",
+          "category_description": "<p>\n<img src=\"https://cdn-blog.adafruit.com/uploads/2017/10/blinka.png\" height=\"395\" width=\"364\" border=\"0\" hspace=\"4\" vspace=\"4\" alt=\"Blinka\" title=\"Blinka\" longdesc=\"Blinka\" align=\"left\" />\n\n<br/> \n<a href=\"https://github.com/adafruit/circuitpython\">CircuitPython</a> is Adafruit's branch of <a href=\"https://micropython.org/\">MicroPython</a> designed to simplify experimentation and education on low-cost microcontrollers. No compiler, linker or IDE required! Now you can code directly on the device itself. CircuitPython makes it easier than ever to get prototyping by requiring <em>no upfront desktop software downloads</em> - open up <b>main.py</b> in any text editor and type away.\n</br>\n\n<br/>\n<b>It is great for beginners:</b> With CircuitPython you can write clean and simple Python code to control hardware instead of having to use complex low-level languages like Arduino, C or C++. The simplicity of the Python programming language makes CircuitPython an excellent choice for beginners who are new to programming and hardware. \n<br>\n<br>\n<b>Experts love it too:</b> skip the annoyances of long-compile cycles, pointers and memory management - get right to the programming you want to do. CircuitPython is also quite full-featured and supports all of Python's syntax (Python version 3.4) and implements some useful parts of the Python standard library so even seasoned Python veterans will find CircuitPython familiar and fun to use.\n</br>\n\n\n<br/>\nPick up a Circuit Playground Express if you want everything-and-the-kitchen-sink-too, Gemma M0 for small wearables, Trinket M0 for compact breadboard-friendly designs, Metro M0 Express for shield-compatibility or Feather M0 Express to take advantage of the Feather system\n</br>\n\n\n<br/>Visit the <a href=\"https://learn.adafruit.com/category/circuitpython\">CircuitPython section of our Learn Guide to learn more about using this awesome coding language</a> and <a href=\"https://discordapp.com/channels/327254708534116352/327298996332658690\">visit our #circuitpython channel on Discord to start chatting with the CircuitPython community</a>, today!\n</br>\n<hr>",
+          "products_count": 239,
+          "category_url": "https://www.adafruit.com/categories/956"
+        },
+        {
+          "category_id": "54",
+          "category_name": "Components & Parts",
+          "category_description": "Adafruit's extensive selection of electronic components and parts will help you get your next project moving, printing, counting, or glowing.  From SD cards and terminal blocks to modular snap boxes and capacitor books to keep your project organized, our Components and Parts section is the best place to start for all your electronics needs.",
+          "products_count": 389,
+          "category_url": "https://www.adafruit.com/categories/54"
+        },
+        {
+          "category_id": "290",
+          "category_name": "Cosplay/Costuming",
+          "category_description": "Bring your wearables to the next level with Adafruit's Cosplay and Costuming category! These products are everything you need to transform yourself into your favorite manga, fantasy, or video game character.  It's also a great place to come up with new ideas for characters of your own - whether you're using our <a href=\"https://www.adafruit.com/product/1577\">Costume Goggles</a> to become a SteamPunk Primocoggler or a sparkling Elven princess with our <a href=\"http://www.adafruit.com/products/1758\">LED Sequins.</a>  So check out our Costume and Cosplay category for the materials, our <a href=\"https://www.adafruit.com/blog/category/cosplay/\">blog</a> <a href=\"https://www.adafruit.com/blog/category/costuming/\">categories</a> for inspiration, and stroll glowing and triumphant into Burning Man, build your child the world's brightest halloween costume, and transform yourself into a crime fighting alien warlord - all with just your maker skills and Adafruit's products!",
+          "products_count": 153,
+          "category_url": "https://www.adafruit.com/categories/290"
+        },
+        {
+          "category_id": "972",
+          "category_name": "Crickit - Creative Robotics",
+          "category_description": "<p>Make a robot friend with Adafruit's CRICKIT - A <strong>C</strong>reative <strong>R</strong>obotics & <strong>I</strong>nteractive <strong>C</strong>onstruction <strong>Kit</strong>. It's an add-on to our popular <a href=\"https://www.adafruit.com/circuitplayground\">Circuit Playground Express</a>, <a href=\"https://www.adafruit.com/feather\">FEATHER</a> and other platforms to make and program <a href=\"https://www.youtube.com/watch?v=wVkG_3GwUyU&amp;list=PLjF7R1fz_OOW4YvQEoRLmocKUuOgvI-wh\">robots</a> with <a href=\"https://www.adafruit.com/circuitpython\">CircuitPython</a>, <a href=\"https://makecode.adafruit.com/\">MakeCode</a>, and <a href=\"https://www.adafruit.com/arduino\">Arduino.</a></p>\n\n<p class=\"hidden-xs hidden-sm\">Start controlling motors, servos, solenoids. You also get signal pins, capacitive touch sensors, a NeoPixel driver and amplified speaker output. It complements & extends your boards so you can still use all the goodies on the microcontroller, now you have a robotics playground as well.</p>",
+          "products_count": 62,
+          "category_url": "https://www.adafruit.com/categories/972"
+        },
+        {
+          "category_id": "851",
+          "category_name": "Development Boards",
+          "category_description": "<p class=\"mobile-text-wrapper\">The development board category is DIY's beating heart. These are the boards that pump liquid solder through your project's veins and keep makers pushing boundaries, breaking down barriers, and finding creative solutions based off of the myriad microprocessors these boards are built around.</p>\n<p class=\"mobile-text-wrapper\">Whether you're looking for a hot-off-the presses Adafruit original, or trying to build out your Arduino-compatible collection, or are just a Feather completest - Development Boards are where Maker projects and DIY innovation begin!</p>",
+          "products_count": 197,
+          "category_url": "https://www.adafruit.com/categories/851"
+        },
+        {
+          "category_id": "50",
+          "category_name": "EL Wire/Tape/Panel",
+          "category_description": "<p>EL Wire, tapes, and panels are a great way to make your project light up - whether you&apos;re making a <a href=\"http://learn.adafruit.com/tron-bag\"> Tron Messenger Bag</a> or a <a href=\"http://learn.adafruit.com/tron-hoodie\">Glowing Hoodie</a>.  These easy to use wires and panels come in a variety of colors and shapes.  Check out our <a href=\"http://www.adafruit.com/products/320\"> EL Wire</a> or <a href=\"http://www.adafruit.com/products/639\"> EL Panel</a> Starter Packs to get a good idea of the variety Adafruit offers or go straight to the <a href=\"http://learn.adafruit.com/category/el\">EL Wire/Tape/Panel Section</a> of the Learn System if you can&apos;t wait to get started!</p>",
+          "products_count": 65,
+          "category_url": "https://www.adafruit.com/categories/50"
+        },
+        {
+          "category_id": "14",
+          "category_name": "Gift Certificates",
+          "category_description": "<p>Know someone who loves electronics but doesn't know the difference between an XBee, a soldering iron, and a <a href=\"http://www.adafruit.com/products/851\">SMA to uFL/u.FL/IPX/IPEX RF Adapter Cable</a>? Want to buy the perfect gift but don't know whether your Maker friend is a <a href=\"http://www.adafruit.com/products/1996\">BeagleBone</a> fan or a <a href=\"http://www.adafruit.com/products/3055\">Rasp Pi</a> devotee? Just a fan of Bruce Yan's incredible design? If you're any of these, or more, buy an Adafruit Gift Certificate - the perfect cyber-present for the electronics geek in your life.</p>",
+          "products_count": 4,
+          "category_url": "https://www.adafruit.com/categories/14"
+        },
+        {
+          "category_id": "927",
+          "category_name": "Gift Ideas",
+          "category_description": "Having trouble finding the right gift for the makers and engineers in your life this holiday season? No idea what to get your tech-savvy niece? Your curious cousin? Your bored grandpa? Here are some of our suggestions!",
+          "products_count": 35,
+          "category_url": "https://www.adafruit.com/categories/927"
+        },
+        {
+          "category_id": "307",
+          "category_name": "Halloween",
+          "category_description": "<p>WE LOVE HALLOWEEN. It's one of the few times of year that wearing your <a href=\"https://learn.adafruit.com/electronic-demon-costume\">Electronic Demon Costume</a> or your <a href=\"https://learn.adafruit.com/neopixel-punk-collar\">NeoPixel Punk Collar</a> will get some real recognition and not just confused stares.  So here's our Halloween category - full of great products to help you win those costume contests, show off your maker skills to your friends, and make your house the creepiest on the block. It's full of wearables goodies, sound or motion sensors, and things that blink and glow.  Just scrolling through will give you infinite project ideas and make you love Halloween as much as we do!</p>\r\n\r\n<p>And don't forget to check out our <a href=\"https://www.youtube.com/playlist?list=PLjF7R1fz_OOW1plTnHk-purUUZLAE4C7m\">Halloween YouTube playlist</a> and our <a href=\"https://learn.adafruit.com/search?q=halloween\">Halloween section in the Learn System</a> for even more ideas!</p>",
+          "products_count": 237,
+          "category_url": "https://www.adafruit.com/categories/307"
+        },
+        {
+          "category_id": "342",
+          "category_name": "Internet of Things - IoT",
+          "category_description": "<p><a href=\"https://learn.adafruit.com/adafruit-io-basics-digital-output\">Turn on your lights - from anywhere.</a> <a href=\"https://learn.adafruit.com/adafruit-io-home-security\">Monitor your home security system – from anywhere</a> Sense a theme? The Internet of Things, or IoT, is a groundbreaking way to add convenience and flexibility to your life by connecting commonly used objects to the Internet and then controlling them through a WiFi connected device.</p><p>The possibilities are endless, especially since the technology's advancing almost every day, with Adafruit at the forefront of innovation. Check out our development boards like the <a href=\"https://www.adafruit.com/products/2821\">Feather Huzzah</a> or start with a kit for IoT beginners, like the <a href=\"https://www.adafruit.com/product/2680\">Adafruit IO Starter Pack</a>. If you need more power, upgrade to a <a href=\"https://www.adafruit.com/category/105\">Raspberry Pi</a> to create more complex Internet of Things appliances. Once your devices are set up, and you're hooked on IoT, check out <a href=\"http://adafruit.io/\">adafruit.io</a> - the easiest way to stream, log, and interact with your data.</p>",
+          "products_count": 161,
+          "category_url": "https://www.adafruit.com/categories/342"
+        },
+        {
+          "category_id": "203",
+          "category_name": "Kits & Projects",
+          "category_description": "<p>\r\nFrom Adafruit classics, to new favorites, Adafruit Kits & Projects are fun and exciting electronics projects for everyone from the amateur to the professional.  These unique kits are not only stylish and useful, they're also an excellent introduction to building electronics and a challenge for those who're seeking one! From clocks to SpokePOVs to calculators, these kits will provide hours of enjoyment with the satisfaction of being able to say \"I built it myself!\"\r\n</p>",
+          "products_count": 156,
+          "category_url": "https://www.adafruit.com/categories/203"
+        },
+        {
+          "category_id": "37",
+          "category_name": "LEDs",
+          "category_description": "What’s more fun than a single blinking LED? How about rings, strips, panels, and matrices of LEDs? In Adafruit’s LEDs category, you’ll find all those varieties and more to help get your project bright and colorful.  For a wide variety of project ideas, check out the <a href=\"http://learn.adafruit.com/category/leds\" target=\"_blank\">LED section</a> of the Learn System.  Or just start with Adafruit’s LED selection - the best way to get blinky!",
+          "products_count": 321,
+          "category_url": "https://www.adafruit.com/categories/37"
+        },
+        {
+          "category_id": "63",
+          "category_name": "LCDs & Displays",
+          "category_description": "Looking for the best LCDs & displays for your projects? Need a screen for your next Arduino project? Or, how about an <a href=\"http://www.adafruit.com/products/1652\">Adafruit Qualia Retina Display</a>? Check out Adafruit's LCDs & Displays section for LCDs, LEDs, and everything in between.  Along with a variety of touchscreens, HDMI displays, eInks and screens from tiny 0.96\" OLEDs up to our full color 10\" Pixel Qi displays, we also offer unique & useful products like these <a href=\"http://www.adafruit.com/products/1679\">Adjustable Wire Stands</a>.",
+          "products_count": 114,
+          "category_url": "https://www.adafruit.com/categories/63"
+        },
+        {
+          "category_id": "1006",
+          "category_name": "Machine Learning",
+          "category_description": "",
+          "products_count": 6,
+          "category_url": "https://www.adafruit.com/categories/1006"
+        },
+        {
+          "category_id": "770",
+          "category_name": "Media",
+          "category_description": "",
+          "products_count": 2,
+          "category_url": "https://www.adafruit.com/categories/770"
+        },
+        {
+          "category_id": "168",
+          "category_name": "NeoPixels",
+          "category_description": "<p>\r\nWhat's better for your project than rings, strips, boards and sticks of pulsing, colorful miniature LEDs? We can't think of much else - and that's why we carry a complete line of the Adafruit original NeoPixels.\r\n</p>\r\n<p>\r\nThese popular products are chainable from one to the next so you can power and program a long line of NeoPixels together to form an endless (or\r\nalmost endless) string of 5050 LEDs. Plus, with our <a href=\"http://learn.adafruit.com/adafruit-neopixel-uberguide/overview\" target=\"_blank\">NeoPixel Uberguide</a>, wonderfully written <a href=\"https://github.com/adafruit/Adafruit_NeoPixel\" target=\"_blank\">NeoPixel library</a> for Arduino and our diverse range of <a href=\"http://learn.adafruit.com/search?q=neopixel\" target=\"_blank\">Learn System projects</a>, its never been easier to both find a project and program it to glow or spin or flash as quickly, slowly, and vibrantly as you want.\r\n</p>",
+          "products_count": 99,
+          "category_url": "https://www.adafruit.com/categories/168"
+        },
+        {
+          "category_id": "44",
+          "category_name": "Power",
+          "category_description": "No matter what electronics project you’re working on, you're going to need some way to power it.  Adafruit's wide selection of batteries, chargers, power supplies, and even <a href=\"http://www.adafruit.com/products/1462\">hand cranks</a> will help get your project buzzing, glowing, moving, or printing.  We carry everything from <a href=\"http://www.adafruit.com/products/654\">CR2032 Coin Cell Batteries</a> to <a href=\"http://www.adafruit.com/products/1407\">5v Inductive Charging Sets</a>, so the next time you need to get your project started, look to Adafruit's Power category for help!",
+          "products_count": 47,
+          "category_url": "https://www.adafruit.com/categories/44"
+        },
+        {
+          "category_id": "82",
+          "category_name": "Prototyping",
+          "category_description": "Quickly prototype and then start innovating! Adafruit carries the supplies you need to get your project moving from the early stages to its final draft.  From wiring, to breadboards, to storage, Adafruit has a wide variety of supplies and accessories to smooth out your workflow and keep you focused on the fun stuff!",
+          "products_count": 112,
+          "category_url": "https://www.adafruit.com/categories/82"
+        },
+        {
+          "category_id": "328",
+          "category_name": "Reseller and School Packs",
+          "category_description": "<p>These are packs specifically designed for educators or resellers.  We also figured we'd make them into products in the store so you could see what other folks are up to and join in.  If you'd like to create a custom pack, <a href=\"https://www.adafruit.com/contact\">contact us</a> for more information!</p>",
+          "products_count": 13,
+          "category_url": "https://www.adafruit.com/categories/328"
+        },
+        {
+          "category_id": "227",
+          "category_name": "Robotics & CNC",
+          "category_description": "<p>We carry a complete line of Robotics and CNC related products from the fully assembled <a href=\"http://www.adafruit.com/products/548\">Robotic Arm Trainer</a> to our popular <a href=\"http://www.adafruit.com/products/169\">Micro Servos</a>.  Once you finish with Adafruit's Robotics & CNC category, you'll have the 3 Laws of Robotics memorized <a href=\"http://www.adafruit.com/products/1062\" target=\"_blank\">(though we have a poster to remind you anyway!)</a></p>",
+          "products_count": 193,
+          "category_url": "https://www.adafruit.com/categories/227"
+        },
+        {
+          "category_id": "35",
+          "category_name": "Sensors",
+          "category_description": "<p>Sense your way into Open Source Hardware glory with Adafruit's sensor category! Here you can find everything you need to start measuring temperature, motion, force, flow, and more.  Check out the <a href=\"http://www.adafruit.com/products/176\">Sensor Pack 900</a> for your beginner sensor needs or the <a href=\"http://www.adafruit.com/products/1298\">Soil Temperature/Moisture Sensor</a> for more advanced projects.  With a wide and growing range of sensors, Adafruit's Sensors category is the best place for all your needs!</p>",
+          "products_count": 229,
+          "category_url": "https://www.adafruit.com/categories/35"
+        },
+        {
+          "category_id": "1005",
+          "category_name": "STEMMA",
+          "category_description": "",
+          "products_count": 34,
+          "category_url": "https://www.adafruit.com/categories/1005"
+        },
+        {
+          "category_id": "8",
+          "category_name": "Tools",
+          "category_description": "<p>Ever find yourself with a mess of tiny screws that are falling all over your work bench? Need a way to digitally measure down to .0001 accuracy? Or maybe you just want an assortment of maker related tools hand selected by LadyAda? Find <a href=\"http://www.adafruit.com/products/1636\">Magnetic Project Mats</a>, <a href=\"http://www.adafruit.com/products/294\">Mitutoyo Digital Calipers</a>, <a href=\"http://www.adafruit.com/products/136\">LadyAda's Electronics Toolkit</a>, and much more in the Adafruit Tools section.</p>",
+          "products_count": 144,
+          "category_url": "https://www.adafruit.com/categories/8"
+        },
+        {
+          "category_id": "65",
+          "category_name": "Wearables",
+          "category_description": "<p>Build circuits into your clothing and accessories with wearables from Adafruit! This category has all the materials, boards, and sensors to help you create the wearable electronics of your dreams.</p>\r\n\r\n<p>In addition to our <a href=\"http://www.adafruit.com/products/659\">FLORA</a> and <a href=\"http://www.adafruit.com/products/1222\">GEMMA</a> sewable microcontrollers, Adafruit's wearables category includes conductive textiles, battery packs, sensors and LEDs, and all-in-one packs perfect for beginners and as gifts.</p>\r\n\r\n<p>Check out the <a href=\"http://learn.adafruit.com\">Adafruit Learn System</a> to learn how to make a <a href=\"http://learn.adafruit.com/flora-gps-jacket\" target=\"_blank\">GPS enabled jacket</a> so you'll never get lost again or a pair of gorgeous, glowing <a href=\"http://learn.adafruit.com/firewalker-led-sneakers/overview\" target=\"_blank\">Firewalker Sneakers.</a>\r\n</p>",
+          "products_count": 45,
+          "category_url": "https://www.adafruit.com/categories/65"
+        },
+        {
+          "category_id": "112",
+          "category_name": "Wireless",
+          "category_description": "Adafruit carries a complete line of wireless boards, sensors, receivers, antennas, controllers, programmers, and remotes to unleash your do-it-yourself electronic projects.  From our FCC & CE certified RoHS compliant Bluefruit line, to our CC3300 microcontroller-friendly WiFi modules, Adafruit’s wireless section is the fastest and easiest way to cut the cord!",
+          "products_count": 125,
+          "category_url": "https://www.adafruit.com/categories/112"
+        },
+        {
+          "category_id": "117",
+          "category_name": "Young Engineers",
+          "category_description": "<p>\nThere's no better way to get your kid started with electronics than the Adafruit Young Engineers category. These kits, packs, and toys all offer introductions into the world of electronics for aspiring engineers.\n  </p>\n<p>\nCheck out our complete line of <a href=\"http://www.adafruit.com/category/116\" target=\"_blank\">Circuit Playground Plushies</a> based on our popular <a href=\"https://www.youtube.com/watch?v=exlRjDKHGRg\" target=\"_blank\">YouTube series</a> that's designed to get your kid telling you what a capacitor does instead of asking. Or check out our line of GoldieBlox - one of the best ways to encourage girls to explore STEM fields.\n</p>\n<p>\nA number of Adafruit's beginner kits are also perfect for engineers of all ages. We carry kits like the <a href=\"http://www.adafruit.com/products/124\" target=\"_blank\"> Drawdio</a> - which turns your pencil into a theremin through conductive tape - and the ever-popular<a href=\"http://www.adafruit.com/products/170\" target=\"_blank\"> ARDx</a> that, with your help, can get anyone programming Arduinos at a very young age. Whether you're young, or young at heart, the Adafruit Young Engineers category is perfect for your all your electronics needs!\n </p>",
+          "products_count": 119,
+          "category_url": "https://www.adafruit.com/categories/117"
+        },
+        {
+          "category_id": "128",
+          "category_name": "3D printing",
+          "category_description": "<img src=\"//www.adafruit.com/images/3dprintsticker.jpg\" border=\"0\" align=\"left\" hspace=\"4\" vspace=\"4\" alt=\"3D Printing\" />\r\n<p>\r\nCheck out Adafruit's line of 3D printing products! The 3D printing revolution is here and growing and Adafruit's product line has something for everyone - 3D printers, 3D scanners, flexible filaments, skill badges, stickers, and kids' books for beginners.  Whether you helped start the revolution, or are just joining it now, Adafruit's 3D printing line is a great place to look for all your 3D printing needs.<p>\r\n</p>",
+          "products_count": 16,
+          "subcategories": [
+            {
+              "category_id": "778",
+              "category_name": "3D Milling",
+              "category_description": "",
+              "products_count": 8,
+              "category_url": "https://www.adafruit.com/categories/778"
+            },
+            {
+              "category_id": "780",
+              "category_name": "Filaments",
+              "category_description": "",
+              "products_count": 26,
+              "category_url": "https://www.adafruit.com/categories/780"
+            },
+            {
+              "category_id": "245",
+              "category_name": "Printers",
+              "category_description": "",
+              "products_count": 1,
+              "category_url": "https://www.adafruit.com/categories/245"
+            },
+            {
+              "category_id": "246",
+              "category_name": "Printing Accessories",
+              "category_description": "",
+              "products_count": 7,
+              "subcategories": [
+                
+              ],
+              "products": [
+                {
+                  "product_id": "3095",
+                  "product_image": "https://cdn-shop.adafruit.com/640x480/3095-00.jpg",
+                  "product_name": "PRINTinZ Skin for Micro 3D Printer - 116mm x 116mm",
+                  "product_model": "",
+                  "product_mpn": "ADA3095",
+                  "product_master_category": "246",
+                  "product_manufacturer": "PRINTinZ",
+                  "product_price": "7.50",
+                  "product_url": "https://www.adafruit.com/product/",
+                  "product_stock": "13",
+                  "parent_pid": 0,
+                  "discount_pricing": [
+                    
+                  ]
+                },
+                {
+                  "product_id": "4239",
+                  "product_image": "https://cdn-shop.adafruit.com/640x480/4239-06.jpg",
+                  "product_name": "Heat-Set Insert For Soldering Irons - #4-40 / M3 Inserts",
+                  "product_model": "from Virtjoule",
+                  "product_mpn": "ADA4239",
+                  "product_master_category": "246",
+                  "product_manufacturer": null,
+                  "product_price": "9.95",
+                  "product_url": "https://www.adafruit.com/product/",
+                  "product_stock": "in stock",
+                  "parent_pid": 0,
+                  "discount_pricing": [
+                    {
+                      "discounted_price": "9.95",
+                      "discounted_percent": 0,
+                      "show_qty": "1-9",
+                      "min_qty": 1
+                    },
+                    {
+                      "discounted_price": "8.96",
+                      "discounted_percent": "10",
+                      "show_qty": "10-99",
+                      "min_qty": 10
+                    },
+                    {
+                      "discounted_price": "7.96",
+                      "discounted_percent": "20",
+                      "show_qty": "100+",
+                      "min_qty": 100
+                    }
+                  ]
+                },
+                {
+                  "product_id": "4249",
+                  "product_image": "https://cdn-shop.adafruit.com/640x480/4249-04.jpg",
+                  "product_name": "Heat-Set Insert For Soldering Irons - M5 Inserts",
+                  "product_model": "from Virtjoule",
+                  "product_mpn": "ADA4249",
+                  "product_master_category": "246",
+                  "product_manufacturer": null,
+                  "product_price": "9.95",
+                  "product_url": "https://www.adafruit.com/product/",
+                  "product_stock": "in stock",
+                  "parent_pid": 0,
+                  "discount_pricing": [
+                    {
+                      "discounted_price": "9.95",
+                      "discounted_percent": 0,
+                      "show_qty": "1-9",
+                      "min_qty": 1
+                    },
+                    {
+                      "discounted_price": "8.96",
+                      "discounted_percent": "10",
+                      "show_qty": "10-99",
+                      "min_qty": 10
+                    },
+                    {
+                      "discounted_price": "7.96",
+                      "discounted_percent": "20",
+                      "show_qty": "100+",
+                      "min_qty": 100
+                    }
+                  ]
+                },
+                {
+                  "product_id": "4255",
+                  "product_image": "https://cdn-shop.adafruit.com/640x480/4255-02.jpg",
+                  "product_name": "Brass Heat-Set Inserts for Plastic - M3 x 4mm - 50 pack",
+                  "product_model": "",
+                  "product_mpn": "ADA4255",
+                  "product_master_category": "246",
+                  "product_manufacturer": null,
+                  "product_price": "5.95",
+                  "product_url": "https://www.adafruit.com/product/",
+                  "product_stock": "44",
+                  "parent_pid": 0,
+                  "discount_pricing": [
+                    {
+                      "discounted_price": "5.95",
+                      "discounted_percent": 0,
+                      "show_qty": "1-9",
+                      "min_qty": 1
+                    },
+                    {
+                      "discounted_price": "5.36",
+                      "discounted_percent": "10",
+                      "show_qty": "10-99",
+                      "min_qty": 10
+                    },
+                    {
+                      "discounted_price": "4.76",
+                      "discounted_percent": "20",
+                      "show_qty": "100+",
+                      "min_qty": 100
+                    }
+                  ]
+                },
+                {
+                  "product_id": "4256",
+                  "product_image": "https://cdn-shop.adafruit.com/640x480/4256-03.jpg",
+                  "product_name": "Brass Heat-Set Inserts for Plastic - M3 x 3mm - 50 pack",
+                  "product_model": "",
+                  "product_mpn": "ADA4256",
+                  "product_master_category": "246",
+                  "product_manufacturer": null,
+                  "product_price": "5.95",
+                  "product_url": "https://www.adafruit.com/product/",
+                  "product_stock": "68",
+                  "parent_pid": 0,
+                  "discount_pricing": [
+                    {
+                      "discounted_price": "5.95",
+                      "discounted_percent": 0,
+                      "show_qty": "1-9",
+                      "min_qty": 1
+                    },
+                    {
+                      "discounted_price": "5.36",
+                      "discounted_percent": "10",
+                      "show_qty": "10-99",
+                      "min_qty": 10
+                    },
+                    {
+                      "discounted_price": "4.76",
+                      "discounted_percent": "20",
+                      "show_qty": "100+",
+                      "min_qty": 100
+                    }
+                  ]
+                },
+                {
+                  "product_id": "649",
+                  "product_image": "https://cdn-shop.adafruit.com/640x480/649-01.jpg",
+                  "product_name": "3D printing - Sticker!",
+                  "product_model": "",
+                  "product_mpn": "ADA649",
+                  "product_master_category": "246",
+                  "product_manufacturer": "Adafruit",
+                  "product_price": "1.50",
+                  "product_url": "https://www.adafruit.com/product/",
+                  "product_stock": "53",
+                  "parent_pid": 0,
+                  "discount_pricing": [
+                    
+                  ]
+                },
+                {
+                  "product_id": "3080",
+                  "product_image": "https://cdn-shop.adafruit.com/640x480/3080-02.jpg",
+                  "product_name": "Othermill Precision Fixturing and Toe Clamp Set",
+                  "product_model": "",
+                  "product_mpn": "ADA3080",
+                  "product_master_category": "246",
+                  "product_manufacturer": null,
+                  "product_price": "174.95",
+                  "product_url": "https://www.adafruit.com/product/",
+                  "product_stock": "1",
+                  "parent_pid": 0,
+                  "discount_pricing": [
+                    
+                  ]
+                }
+              ],
+              "category_url": "https://www.adafruit.com/categories/246"
+            }
+          ],
+          "products": [
+            {
+              "product_id": "2072",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/2072-02.jpg",
+              "product_name": "Carbide Square End Mill - 1/8\" Shaft - 0.5mm Diameter",
+              "product_model": "",
+              "product_mpn": "ADA2072",
+              "product_master_category": "329",
+              "product_manufacturer": null,
+              "product_price": "3.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "23",
+              "parent_pid": 0,
+              "discount_pricing": [
+                {
+                  "discounted_price": "3.95",
+                  "discounted_percent": 0,
+                  "show_qty": "1-9",
+                  "min_qty": 1
+                },
+                {
+                  "discounted_price": "3.56",
+                  "discounted_percent": "10",
+                  "show_qty": "10-99",
+                  "min_qty": 10
+                },
+                {
+                  "discounted_price": "3.16",
+                  "discounted_percent": "20",
+                  "show_qty": "100+",
+                  "min_qty": 100
+                }
+              ]
+            },
+            {
+              "product_id": "2073",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/2073-02.jpg",
+              "product_name": "Carbide Square End Mill - 1/8\" Shaft - 0.6mm Diameter",
+              "product_model": "",
+              "product_mpn": "ADA2073",
+              "product_master_category": "329",
+              "product_manufacturer": null,
+              "product_price": "3.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "10",
+              "parent_pid": 0,
+              "discount_pricing": [
+                {
+                  "discounted_price": "3.95",
+                  "discounted_percent": 0,
+                  "show_qty": "1-9",
+                  "min_qty": 1
+                },
+                {
+                  "discounted_price": "3.56",
+                  "discounted_percent": "10",
+                  "show_qty": "10-99",
+                  "min_qty": 10
+                },
+                {
+                  "discounted_price": "3.16",
+                  "discounted_percent": "20",
+                  "show_qty": "100+",
+                  "min_qty": 100
+                }
+              ]
+            },
+            {
+              "product_id": "2074",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/2074-02.jpg",
+              "product_name": "Carbide Square End Mill - 1/8\" Shaft - 0.7mm Diameter",
+              "product_model": "",
+              "product_mpn": "ADA2074",
+              "product_master_category": "329",
+              "product_manufacturer": null,
+              "product_price": "3.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "15",
+              "parent_pid": 0,
+              "discount_pricing": [
+                {
+                  "discounted_price": "3.95",
+                  "discounted_percent": 0,
+                  "show_qty": "1-9",
+                  "min_qty": 1
+                },
+                {
+                  "discounted_price": "3.56",
+                  "discounted_percent": "10",
+                  "show_qty": "10-99",
+                  "min_qty": 10
+                },
+                {
+                  "discounted_price": "3.16",
+                  "discounted_percent": "20",
+                  "show_qty": "100+",
+                  "min_qty": 100
+                }
+              ]
+            },
+            {
+              "product_id": "2075",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/2075-02.jpg",
+              "product_name": "Carbide Square End Mill - 1/8\" Shaft - 0.8mm Diameter",
+              "product_model": "",
+              "product_mpn": "ADA2075",
+              "product_master_category": "329",
+              "product_manufacturer": null,
+              "product_price": "3.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "0",
+              "parent_pid": 0,
+              "discount_pricing": [
+                {
+                  "discounted_price": "3.95",
+                  "discounted_percent": 0,
+                  "show_qty": "1-9",
+                  "min_qty": 1
+                },
+                {
+                  "discounted_price": "3.56",
+                  "discounted_percent": "10",
+                  "show_qty": "10-99",
+                  "min_qty": 10
+                },
+                {
+                  "discounted_price": "3.16",
+                  "discounted_percent": "20",
+                  "show_qty": "100+",
+                  "min_qty": 100
+                }
+              ]
+            },
+            {
+              "product_id": "2118",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/2118-01.jpg",
+              "product_name": "Carbide PCB Drill Bit - 0.5mm",
+              "product_model": "",
+              "product_mpn": "ADA2118",
+              "product_master_category": "329",
+              "product_manufacturer": null,
+              "product_price": "1.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "48",
+              "parent_pid": 0,
+              "discount_pricing": [
+                {
+                  "discounted_price": "1.95",
+                  "discounted_percent": 0,
+                  "show_qty": "1-9",
+                  "min_qty": 1
+                },
+                {
+                  "discounted_price": "1.76",
+                  "discounted_percent": "10",
+                  "show_qty": "10-99",
+                  "min_qty": 10
+                },
+                {
+                  "discounted_price": "1.56",
+                  "discounted_percent": "20",
+                  "show_qty": "100+",
+                  "min_qty": 100
+                }
+              ]
+            },
+            {
+              "product_id": "2119",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/2119-01.jpg",
+              "product_name": "Carbide PCB Drill Bit - 0.7mm",
+              "product_model": "",
+              "product_mpn": "ADA2119",
+              "product_master_category": "329",
+              "product_manufacturer": null,
+              "product_price": "1.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "in stock",
+              "parent_pid": 0,
+              "discount_pricing": [
+                {
+                  "discounted_price": "1.95",
+                  "discounted_percent": 0,
+                  "show_qty": "1-9",
+                  "min_qty": 1
+                },
+                {
+                  "discounted_price": "1.76",
+                  "discounted_percent": "10",
+                  "show_qty": "10-99",
+                  "min_qty": 10
+                },
+                {
+                  "discounted_price": "1.56",
+                  "discounted_percent": "20",
+                  "show_qty": "100+",
+                  "min_qty": 100
+                }
+              ]
+            },
+            {
+              "product_id": "2120",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/2120-01.jpg",
+              "product_name": "Carbide PCB Drill Bit - 0.9mm",
+              "product_model": "",
+              "product_mpn": "ADA2120",
+              "product_master_category": "329",
+              "product_manufacturer": null,
+              "product_price": "1.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "in stock",
+              "parent_pid": 0,
+              "discount_pricing": [
+                {
+                  "discounted_price": "1.95",
+                  "discounted_percent": 0,
+                  "show_qty": "1-9",
+                  "min_qty": 1
+                },
+                {
+                  "discounted_price": "1.76",
+                  "discounted_percent": "10",
+                  "show_qty": "10-99",
+                  "min_qty": 10
+                },
+                {
+                  "discounted_price": "1.56",
+                  "discounted_percent": "20",
+                  "show_qty": "100+",
+                  "min_qty": 100
+                }
+              ]
+            },
+            {
+              "product_id": "2121",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/2121-01.jpg",
+              "product_name": "Carbide PCB Drill Bit - 1.1mm",
+              "product_model": "",
+              "product_mpn": "ADA2121",
+              "product_master_category": "329",
+              "product_manufacturer": null,
+              "product_price": "1.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "in stock",
+              "parent_pid": 0,
+              "discount_pricing": [
+                {
+                  "discounted_price": "1.95",
+                  "discounted_percent": 0,
+                  "show_qty": "1-9",
+                  "min_qty": 1
+                },
+                {
+                  "discounted_price": "1.76",
+                  "discounted_percent": "10",
+                  "show_qty": "10-99",
+                  "min_qty": 10
+                },
+                {
+                  "discounted_price": "1.56",
+                  "discounted_percent": "20",
+                  "show_qty": "100+",
+                  "min_qty": 100
+                }
+              ]
+            },
+            {
+              "product_id": "2065",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/2065-01.jpg",
+              "product_name": "ABS Filament for 3D Printers - 1.75mm Diameter - Black - 1KG",
+              "product_model": "",
+              "product_mpn": "ADA2065",
+              "product_master_category": "782",
+              "product_manufacturer": "Ultimaker",
+              "product_price": "46.00",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "2",
+              "parent_pid": 0,
+              "discount_pricing": [
+                
+              ]
+            },
+            {
+              "product_id": "2069",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/2069-01.jpg",
+              "product_name": "ABS Filament for 3D Printers - 1.75mm Diameter - White - 1KG",
+              "product_model": "",
+              "product_mpn": "ADA2069",
+              "product_master_category": "782",
+              "product_manufacturer": "PRINTinZ",
+              "product_price": "39.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "14",
+              "parent_pid": 0,
+              "discount_pricing": [
+                
+              ]
+            },
+            {
+              "product_id": "2149",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/2149-01.jpg",
+              "product_name": "ABS Filament for 3D Printers - 1.75mm Diameter - Blue - 1KG",
+              "product_model": "",
+              "product_mpn": "ADA2149",
+              "product_master_category": "782",
+              "product_manufacturer": "Ultimaker",
+              "product_price": "46.00",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "3",
+              "parent_pid": 0,
+              "discount_pricing": [
+                
+              ]
+            },
+            {
+              "product_id": "2146",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/2146-01.jpg",
+              "product_name": "PLA Filament for 3D Printers - 1.75mm Diameter - Blue - 1KG",
+              "product_model": "",
+              "product_mpn": "ADA2146",
+              "product_master_category": "850",
+              "product_manufacturer": "PRINTinZ",
+              "product_price": "44.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "13",
+              "parent_pid": 0,
+              "discount_pricing": [
+                
+              ]
+            },
+            {
+              "product_id": "1690",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/1690-01.jpg",
+              "product_name": "NinjaFlex - 1.75mm Diameter - Midnight Black - 0.5Kg",
+              "product_model": "",
+              "product_mpn": "ADA1690",
+              "product_master_category": "783",
+              "product_manufacturer": "NinjaFlex",
+              "product_price": "29.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "22",
+              "parent_pid": 0,
+              "discount_pricing": [
+                
+              ]
+            },
+            {
+              "product_id": "1691",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/1691-01.jpg",
+              "product_name": "NinjaFlex - 1.75mm Diameter - Snow White - 0.5 Kg",
+              "product_model": "",
+              "product_mpn": "ADA1691",
+              "product_master_category": "783",
+              "product_manufacturer": "NinjaFlex",
+              "product_price": "29.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "5",
+              "parent_pid": 0,
+              "discount_pricing": [
+                
+              ]
+            },
+            {
+              "product_id": "2382",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/2382-01.jpg",
+              "product_name": "NinjaFlex - 1.75mm Diameter - Caramel Candy - 0.5Kg",
+              "product_model": "",
+              "product_mpn": "ADA2382",
+              "product_master_category": "783",
+              "product_manufacturer": "NinjaFlex",
+              "product_price": "29.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "13",
+              "parent_pid": 0,
+              "discount_pricing": [
+                {
+                  "discounted_price": "29.95",
+                  "discounted_percent": 0,
+                  "show_qty": "1-9",
+                  "min_qty": 1
+                },
+                {
+                  "discounted_price": "26.96",
+                  "discounted_percent": "10",
+                  "show_qty": "10+",
+                  "min_qty": 10
+                }
+              ]
+            },
+            {
+              "product_id": "2383",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/2383-01.jpg",
+              "product_name": "NinjaFlex - 1.75mm Diameter - Almond-Peach Smoothie - 0.50Kg",
+              "product_model": "",
+              "product_mpn": "ADA2383",
+              "product_master_category": "783",
+              "product_manufacturer": "NinjaFlex",
+              "product_price": "49.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "22",
+              "parent_pid": 0,
+              "discount_pricing": [
+                {
+                  "discounted_price": "49.95",
+                  "discounted_percent": 0,
+                  "show_qty": "1-9",
+                  "min_qty": 1
+                },
+                {
+                  "discounted_price": "44.96",
+                  "discounted_percent": "10",
+                  "show_qty": "10-99",
+                  "min_qty": 10
+                },
+                {
+                  "discounted_price": "39.96",
+                  "discounted_percent": "20",
+                  "show_qty": "100+",
+                  "min_qty": 100
+                }
+              ]
+            },
+            {
+              "product_id": "2443",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/2443-01.jpg",
+              "product_name": "Cheetah NinjaFlex Filament - 1.75mm - Liquid Hot Lava - 0.5 Kg",
+              "product_model": "",
+              "product_mpn": "ADA2443",
+              "product_master_category": "783",
+              "product_manufacturer": "NinjaFlex",
+              "product_price": "49.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "18",
+              "parent_pid": 0,
+              "discount_pricing": [
+                {
+                  "discounted_price": "49.95",
+                  "discounted_percent": 0,
+                  "show_qty": "1-9",
+                  "min_qty": 1
+                },
+                {
+                  "discounted_price": "44.96",
+                  "discounted_percent": "10",
+                  "show_qty": "10-99",
+                  "min_qty": 10
+                },
+                {
+                  "discounted_price": "39.96",
+                  "discounted_percent": "20",
+                  "show_qty": "100+",
+                  "min_qty": 100
+                }
+              ]
+            },
+            {
+              "product_id": "2445",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/2445-01.jpg",
+              "product_name": "NinjaFlex - 1.75mm Diameter - Semitranslucent White - 0.50 Kg",
+              "product_model": "",
+              "product_mpn": "ADA2445",
+              "product_master_category": "783",
+              "product_manufacturer": "NinjaFlex",
+              "product_price": "29.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "12",
+              "parent_pid": 0,
+              "discount_pricing": [
+                {
+                  "discounted_price": "29.95",
+                  "discounted_percent": 0,
+                  "show_qty": "1-9",
+                  "min_qty": 1
+                },
+                {
+                  "discounted_price": "26.96",
+                  "discounted_percent": "10",
+                  "show_qty": "10+",
+                  "min_qty": 10
+                }
+              ]
+            },
+            {
+              "product_id": "2565",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/2565-01.jpg",
+              "product_name": "NinjaFlex - 1.75mm Diameter - Flamingo Pink - 0.50 Kg",
+              "product_model": "",
+              "product_mpn": "ADA2565",
+              "product_master_category": "783",
+              "product_manufacturer": "NinjaFlex",
+              "product_price": "29.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "3",
+              "parent_pid": 0,
+              "discount_pricing": [
+                {
+                  "discounted_price": "29.95",
+                  "discounted_percent": 0,
+                  "show_qty": "1-9",
+                  "min_qty": 1
+                },
+                {
+                  "discounted_price": "26.96",
+                  "discounted_percent": "10",
+                  "show_qty": "10+",
+                  "min_qty": 10
+                }
+              ]
+            },
+            {
+              "product_id": "2655",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/2655-01.jpg",
+              "product_name": "NinjaFlex - 1.75mm Diameter - Glow in the Dark - 0.5 Kg",
+              "product_model": "",
+              "product_mpn": "ADA2655",
+              "product_master_category": "783",
+              "product_manufacturer": "NinjaFlex",
+              "product_price": "29.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "9",
+              "parent_pid": 0,
+              "discount_pricing": [
+                {
+                  "discounted_price": "29.95",
+                  "discounted_percent": 0,
+                  "show_qty": "1-9",
+                  "min_qty": 1
+                },
+                {
+                  "discounted_price": "26.96",
+                  "discounted_percent": "10",
+                  "show_qty": "10+",
+                  "min_qty": 10
+                }
+              ]
+            },
+            {
+              "product_id": "3185",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/3185-03.jpg",
+              "product_name": "Cheetah 3D Printer Filament - 3mm Diameter 1kg - Midnight",
+              "product_model": "",
+              "product_mpn": "ADA3185",
+              "product_master_category": "783",
+              "product_manufacturer": "NinjaFlex",
+              "product_price": "59.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "8",
+              "parent_pid": 0,
+              "discount_pricing": [
+                
+              ]
+            },
+            {
+              "product_id": "3186",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/3186-01.jpg",
+              "product_name": "Cheetah 3D Printer Filament - 3mm Diameter 1kg - Snow",
+              "product_model": "",
+              "product_mpn": "ADA3186",
+              "product_master_category": "783",
+              "product_manufacturer": "NinjaFlex",
+              "product_price": "59.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "2",
+              "parent_pid": 0,
+              "discount_pricing": [
+                
+              ]
+            },
+            {
+              "product_id": "1830",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/1830-01.jpg",
+              "product_name": "PLA/PHA bronzeFill for 3D Printers - 1.75mm Diameter - 750g",
+              "product_model": "",
+              "product_mpn": "ADA1830",
+              "product_master_category": "785",
+              "product_manufacturer": "ColorFabb",
+              "product_price": "69.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "3",
+              "parent_pid": 0,
+              "discount_pricing": [
+                {
+                  "discounted_price": "69.95",
+                  "discounted_percent": 0,
+                  "show_qty": "1-9",
+                  "min_qty": 1
+                },
+                {
+                  "discounted_price": "62.96",
+                  "discounted_percent": "10",
+                  "show_qty": "10-99",
+                  "min_qty": 10
+                },
+                {
+                  "discounted_price": "55.96",
+                  "discounted_percent": "20",
+                  "show_qty": "100+",
+                  "min_qty": 100
+                }
+              ]
+            },
+            {
+              "product_id": "2128",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/2128-01.jpg",
+              "product_name": "PLA/PHA copperFill for 3D Printers - 1.75mm Diameter - 750g",
+              "product_model": "",
+              "product_mpn": "ADA2128",
+              "product_master_category": "785",
+              "product_manufacturer": "ColorFabb",
+              "product_price": "69.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "2",
+              "parent_pid": 0,
+              "discount_pricing": [
+                {
+                  "discounted_price": "69.95",
+                  "discounted_percent": 0,
+                  "show_qty": "1-9",
+                  "min_qty": 1
+                },
+                {
+                  "discounted_price": "62.96",
+                  "discounted_percent": "10",
+                  "show_qty": "10-99",
+                  "min_qty": 10
+                },
+                {
+                  "discounted_price": "55.96",
+                  "discounted_percent": "20",
+                  "show_qty": "100+",
+                  "min_qty": 100
+                }
+              ]
+            },
+            {
+              "product_id": "2338",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/2338-01.jpg",
+              "product_name": "PLA/PHA Filament for 3D Printers - 1.75mm Diameter - 1KG",
+              "product_model": "Glowfill",
+              "product_mpn": "ADA2338",
+              "product_master_category": "785",
+              "product_manufacturer": "PRINTinZ",
+              "product_price": "49.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "7",
+              "parent_pid": 0,
+              "discount_pricing": [
+                {
+                  "discounted_price": "49.95",
+                  "discounted_percent": 0,
+                  "show_qty": "1-9",
+                  "min_qty": 1
+                },
+                {
+                  "discounted_price": "44.96",
+                  "discounted_percent": "10",
+                  "show_qty": "10-99",
+                  "min_qty": 10
+                },
+                {
+                  "discounted_price": "39.96",
+                  "discounted_percent": "20",
+                  "show_qty": "100+",
+                  "min_qty": 100
+                }
+              ]
+            },
+            {
+              "product_id": "2703",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/2703-01.jpg",
+              "product_name": "Proto-Pasta - 1.75mm 500g Conductive PLA Filament",
+              "product_model": "",
+              "product_mpn": "ADA2703",
+              "product_master_category": "784",
+              "product_manufacturer": "ProtoPlant",
+              "product_price": "58.00",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "11",
+              "parent_pid": 0,
+              "discount_pricing": [
+                
+              ]
+            },
+            {
+              "product_id": "2797",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/2797-01.jpg",
+              "product_name": "Proto-Pasta - 1.75mm Magnetic Iron Filament",
+              "product_model": "",
+              "product_mpn": "ADA2797",
+              "product_master_category": "784",
+              "product_manufacturer": "ProtoPlant",
+              "product_price": "54.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "8",
+              "parent_pid": 0,
+              "discount_pricing": [
+                
+              ]
+            },
+            {
+              "product_id": "3731",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/3731-01.jpg",
+              "product_name": "PLA Filament for 3D Printers - 2.85mm Diameter - Silver - 1 Kg",
+              "product_model": "MeltInk",
+              "product_mpn": "ADA3731",
+              "product_master_category": "785",
+              "product_manufacturer": null,
+              "product_price": "39.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "4",
+              "parent_pid": 0,
+              "discount_pricing": [
+                
+              ]
+            },
+            {
+              "product_id": "3732",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/3732-01.jpg",
+              "product_name": "PLA Filament for 3D Printers - 2.85mm Diameter - Magenta - 1 Kg",
+              "product_model": "MeltInk",
+              "product_mpn": "ADA3732",
+              "product_master_category": "785",
+              "product_manufacturer": null,
+              "product_price": "39.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "10",
+              "parent_pid": 0,
+              "discount_pricing": [
+                
+              ]
+            },
+            {
+              "product_id": "3733",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/3733-01.jpg",
+              "product_name": "PLA Filament for 3D Printers - 2.85mm Diameter - Lilac - 1 Kg",
+              "product_model": "MeltInk",
+              "product_mpn": "ADA3733",
+              "product_master_category": "785",
+              "product_manufacturer": null,
+              "product_price": "39.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "1",
+              "parent_pid": 0,
+              "discount_pricing": [
+                
+              ]
+            },
+            {
+              "product_id": "1830",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/1830-01.jpg",
+              "product_name": "PLA/PHA bronzeFill for 3D Printers - 1.75mm Diameter - 750g",
+              "product_model": "",
+              "product_mpn": "ADA1830",
+              "product_master_category": "785",
+              "product_manufacturer": "ColorFabb",
+              "product_price": "69.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "3",
+              "parent_pid": 0,
+              "discount_pricing": [
+                {
+                  "discounted_price": "69.95",
+                  "discounted_percent": 0,
+                  "show_qty": "1-9",
+                  "min_qty": 1
+                },
+                {
+                  "discounted_price": "62.96",
+                  "discounted_percent": "10",
+                  "show_qty": "10-99",
+                  "min_qty": 10
+                },
+                {
+                  "discounted_price": "55.96",
+                  "discounted_percent": "20",
+                  "show_qty": "100+",
+                  "min_qty": 100
+                }
+              ]
+            },
+            {
+              "product_id": "2128",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/2128-01.jpg",
+              "product_name": "PLA/PHA copperFill for 3D Printers - 1.75mm Diameter - 750g",
+              "product_model": "",
+              "product_mpn": "ADA2128",
+              "product_master_category": "785",
+              "product_manufacturer": "ColorFabb",
+              "product_price": "69.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "2",
+              "parent_pid": 0,
+              "discount_pricing": [
+                {
+                  "discounted_price": "69.95",
+                  "discounted_percent": 0,
+                  "show_qty": "1-9",
+                  "min_qty": 1
+                },
+                {
+                  "discounted_price": "62.96",
+                  "discounted_percent": "10",
+                  "show_qty": "10-99",
+                  "min_qty": 10
+                },
+                {
+                  "discounted_price": "55.96",
+                  "discounted_percent": "20",
+                  "show_qty": "100+",
+                  "min_qty": 100
+                }
+              ]
+            },
+            {
+              "product_id": "2338",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/2338-01.jpg",
+              "product_name": "PLA/PHA Filament for 3D Printers - 1.75mm Diameter - 1KG",
+              "product_model": "Glowfill",
+              "product_mpn": "ADA2338",
+              "product_master_category": "785",
+              "product_manufacturer": "PRINTinZ",
+              "product_price": "49.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "7",
+              "parent_pid": 0,
+              "discount_pricing": [
+                {
+                  "discounted_price": "49.95",
+                  "discounted_percent": 0,
+                  "show_qty": "1-9",
+                  "min_qty": 1
+                },
+                {
+                  "discounted_price": "44.96",
+                  "discounted_percent": "10",
+                  "show_qty": "10-99",
+                  "min_qty": 10
+                },
+                {
+                  "discounted_price": "39.96",
+                  "discounted_percent": "20",
+                  "show_qty": "100+",
+                  "min_qty": 100
+                }
+              ]
+            },
+            {
+              "product_id": "2450",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/2450-03.jpg",
+              "product_name": "PLA Filament for 3D Printers - 1.75mm Diameter",
+              "product_model": "Red- 1KG",
+              "product_mpn": "ADA2450",
+              "product_master_category": "785",
+              "product_manufacturer": "ColorFabb",
+              "product_price": "46.00",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "6",
+              "parent_pid": 0,
+              "discount_pricing": [
+                
+              ]
+            },
+            {
+              "product_id": "3897",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/3897-00.jpg",
+              "product_name": "Monoprice Inventor II 3D Printer with Touchscreen and WiFi",
+              "product_model": "",
+              "product_mpn": "ADA3897",
+              "product_master_category": "245",
+              "product_manufacturer": null,
+              "product_price": "650.00",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "3",
+              "parent_pid": 0,
+              "discount_pricing": [
+                
+              ]
+            },
+            {
+              "product_id": "3095",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/3095-00.jpg",
+              "product_name": "PRINTinZ Skin for Micro 3D Printer - 116mm x 116mm",
+              "product_model": "",
+              "product_mpn": "ADA3095",
+              "product_master_category": "246",
+              "product_manufacturer": "PRINTinZ",
+              "product_price": "7.50",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "13",
+              "parent_pid": 0,
+              "discount_pricing": [
+                
+              ]
+            },
+            {
+              "product_id": "4239",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/4239-06.jpg",
+              "product_name": "Heat-Set Insert For Soldering Irons - #4-40 / M3 Inserts",
+              "product_model": "from Virtjoule",
+              "product_mpn": "ADA4239",
+              "product_master_category": "246",
+              "product_manufacturer": null,
+              "product_price": "9.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "in stock",
+              "parent_pid": 0,
+              "discount_pricing": [
+                {
+                  "discounted_price": "9.95",
+                  "discounted_percent": 0,
+                  "show_qty": "1-9",
+                  "min_qty": 1
+                },
+                {
+                  "discounted_price": "8.96",
+                  "discounted_percent": "10",
+                  "show_qty": "10-99",
+                  "min_qty": 10
+                },
+                {
+                  "discounted_price": "7.96",
+                  "discounted_percent": "20",
+                  "show_qty": "100+",
+                  "min_qty": 100
+                }
+              ]
+            },
+            {
+              "product_id": "4249",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/4249-04.jpg",
+              "product_name": "Heat-Set Insert For Soldering Irons - M5 Inserts",
+              "product_model": "from Virtjoule",
+              "product_mpn": "ADA4249",
+              "product_master_category": "246",
+              "product_manufacturer": null,
+              "product_price": "9.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "in stock",
+              "parent_pid": 0,
+              "discount_pricing": [
+                {
+                  "discounted_price": "9.95",
+                  "discounted_percent": 0,
+                  "show_qty": "1-9",
+                  "min_qty": 1
+                },
+                {
+                  "discounted_price": "8.96",
+                  "discounted_percent": "10",
+                  "show_qty": "10-99",
+                  "min_qty": 10
+                },
+                {
+                  "discounted_price": "7.96",
+                  "discounted_percent": "20",
+                  "show_qty": "100+",
+                  "min_qty": 100
+                }
+              ]
+            },
+            {
+              "product_id": "4255",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/4255-02.jpg",
+              "product_name": "Brass Heat-Set Inserts for Plastic - M3 x 4mm - 50 pack",
+              "product_model": "",
+              "product_mpn": "ADA4255",
+              "product_master_category": "246",
+              "product_manufacturer": null,
+              "product_price": "5.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "44",
+              "parent_pid": 0,
+              "discount_pricing": [
+                {
+                  "discounted_price": "5.95",
+                  "discounted_percent": 0,
+                  "show_qty": "1-9",
+                  "min_qty": 1
+                },
+                {
+                  "discounted_price": "5.36",
+                  "discounted_percent": "10",
+                  "show_qty": "10-99",
+                  "min_qty": 10
+                },
+                {
+                  "discounted_price": "4.76",
+                  "discounted_percent": "20",
+                  "show_qty": "100+",
+                  "min_qty": 100
+                }
+              ]
+            },
+            {
+              "product_id": "4256",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/4256-03.jpg",
+              "product_name": "Brass Heat-Set Inserts for Plastic - M3 x 3mm - 50 pack",
+              "product_model": "",
+              "product_mpn": "ADA4256",
+              "product_master_category": "246",
+              "product_manufacturer": null,
+              "product_price": "5.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "68",
+              "parent_pid": 0,
+              "discount_pricing": [
+                {
+                  "discounted_price": "5.95",
+                  "discounted_percent": 0,
+                  "show_qty": "1-9",
+                  "min_qty": 1
+                },
+                {
+                  "discounted_price": "5.36",
+                  "discounted_percent": "10",
+                  "show_qty": "10-99",
+                  "min_qty": 10
+                },
+                {
+                  "discounted_price": "4.76",
+                  "discounted_percent": "20",
+                  "show_qty": "100+",
+                  "min_qty": 100
+                }
+              ]
+            },
+            {
+              "product_id": "649",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/649-01.jpg",
+              "product_name": "3D printing - Sticker!",
+              "product_model": "",
+              "product_mpn": "ADA649",
+              "product_master_category": "246",
+              "product_manufacturer": "Adafruit",
+              "product_price": "1.50",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "53",
+              "parent_pid": 0,
+              "discount_pricing": [
+                
+              ]
+            },
+            {
+              "product_id": "3080",
+              "product_image": "https://cdn-shop.adafruit.com/640x480/3080-02.jpg",
+              "product_name": "Othermill Precision Fixturing and Toe Clamp Set",
+              "product_model": "",
+              "product_mpn": "ADA3080",
+              "product_master_category": "246",
+              "product_manufacturer": null,
+              "product_price": "174.95",
+              "product_url": "https://www.adafruit.com/product/",
+              "product_stock": "1",
+              "parent_pid": 0,
+              "discount_pricing": [
+                
+              ]
+            }
+          ],
+          "category_url": "https://www.adafruit.com/categories/128"
+        }
+      ]
+}

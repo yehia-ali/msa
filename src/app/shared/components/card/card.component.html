@@ -1,0 +1,14 @@
+<div class="card-dec mb-2">
+  <div class="card">
+    <img *ngIf="card?.imgSrc" [src]="card?.imgSrc" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">{{card?.title}}</h5>
+      <p *ngIf="card?.description" [innerHtml]="safeDescriptionHtml" class="card-text"></p>
+    </div>
+    <div class="card-footer">
+      <small *ngIf="card?.footerDescription" class="text-muted">{{card?.footerDescription}}</small>
+      <br>
+      <button (click)="click(card)" class="btn btn-primary">{{card?.buttonText}}</button>
+    </div>
+  </div>
+</div>
